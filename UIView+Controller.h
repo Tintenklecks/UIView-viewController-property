@@ -11,5 +11,8 @@
 
 @interface UIView (Controller)
 - (UIViewController *)viewController;
+- (UINavigationController *)navigationController;
+
+
 
 @end
